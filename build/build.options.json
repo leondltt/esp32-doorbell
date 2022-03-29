@@ -1,0 +1,12 @@
+{
+  "additionalFiles": "../..,../..,../..,..",
+  "builtInLibrariesFolders": "/home/leo/Downloads/arduino-1.8.19/libraries",
+  "builtInToolsFolders": "",
+  "compiler.optimization_flags": "",
+  "customBuildProperties": "build.warn_data_percentage=75",
+  "fqbn": "esp32:esp32:esp32:PSRAM=disabled,PartitionScheme=default,CPUFreq=240,FlashMode=qio,FlashFreq=80,FlashSize=4M,UploadSpeed=921600,DebugLevel=none",
+  "hardwareFolders": "/home/leo/.arduino15/packages",
+  "otherLibrariesFolders": "/home/leo/Arduino/libraries",
+  "runtime.ide.version": "10607",
+  "sketchLocation": "/home/leo/Documents/EspDoorbell/EspDoorbell.ino"
+}
